@@ -1,0 +1,1 @@
+import {access,readFile} from 'node:fs/promises'; for(const f of ['public/index.html','public/styles.css','public/app.js','vercel.json']) await access(f); const js=await readFile('public/app.js','utf8'); new Function(js); console.log('Project checks passed.');

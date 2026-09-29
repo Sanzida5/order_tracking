@@ -1,0 +1,1 @@
+{"name":"order-tracking-screen","private":true,"version":"1.0.0","scripts":{"dev":"npx serve public","build":"node scripts/build.mjs","check":"node scripts/check.mjs"}}
