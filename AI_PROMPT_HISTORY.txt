@@ -1,0 +1,41 @@
+I have attached a screenshot that contains the complete task requirements.
+
+Please carefully analyze the screenshot and complete the task exactly according to the instructions shown in the screenshot.
+
+Requirements:
+
+Read and understand every requirement, feature, UI element, text, layout, and functionality shown in the screenshot.
+
+Implement everything mentioned in the screenshot exactly as requested.
+
+Do not skip or simplify any requirement.
+
+Keep the UI/design as close to the screenshot as possible, including spacing, colors, typography, buttons, sections, responsiveness, and overall layout.
+
+Make the application fully functional, not just a static mockup.
+
+Ensure it works properly on desktop, tablet, and mobile.
+
+Use clean, maintainable, production-ready code.
+
+Fix any errors, broken functionality, console errors, or build issues before considering the task complete.
+
+If the screenshot does not specify a particular implementation detail, choose a sensible production-ready approach without changing the requested functionality.
+
+After completing the implementation:
+
+Check the entire project for errors.
+
+Run the production build and make sure it succeeds.
+
+Make sure all required dependencies and configuration files are included.
+
+Make the project ready to deploy on Vercel.
+
+Explain exactly how I can deploy this project to Vercel, step by step.
+
+Include the required Vercel settings, environment variables (if any), build command, output directory, and framework settings.
+
+If there are any things I need to configure manually in Vercel, clearly tell me what to do.
+
+Most importantly: follow the screenshot exactly and complete the entire task before explaining the deployment process.
